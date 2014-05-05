@@ -1,0 +1,14 @@
+{
+	"name": "zero-chances-of-working",
+	"author": "Mickael van der Beek <mickael@sagacify.com>",
+	"version": "0.0.1",
+	"private": true,
+	"contributors": [
+		"Mickael “LunaSea“ van der Beek <mickael@sagacify.com>"
+	],
+	"dependencies": {
+		"csv-stringify": "latest",
+		"request": "latest",
+		"async": "latest"
+	}
+}
